@@ -43,7 +43,7 @@ fields_of_interests:
     "UI/UX",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Docker, TypeScript and PSQL"]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Football", "Comedy"]
 ```
