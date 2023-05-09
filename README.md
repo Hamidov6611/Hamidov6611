@@ -18,7 +18,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
   <a href="https://t.me/KHAMIDOV2210">
-    <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" />
+    <img src="[https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfpPfe1uIZruoo_NlmQqF7SYLl9HnPj4PZP2kkP4sDQ&s)" />
   </a>
 </p>
 
