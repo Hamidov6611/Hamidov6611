@@ -22,7 +22,7 @@
   </a>
 </p>
 
-[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)](https://github.com/Hamidov6611)
+
 
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
