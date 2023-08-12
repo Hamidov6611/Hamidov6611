@@ -74,7 +74,7 @@ hobbies: ["Gaming", "Cinema","Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,mongodb,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nestjs,postgres,nextjs,tailwind" />
   </a>
 </p>
 </p>
