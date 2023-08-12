@@ -45,7 +45,6 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "UI/UX",
   ]
   
 currently_learning: ["Docker, TypeScript and PSQL"]
