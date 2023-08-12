@@ -49,8 +49,9 @@ fields_of_interests:
   ]
   
 currently_learning: ["Docker, TypeScript and PSQL"]
-2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Football", "Comedy"]
+2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."],
+2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies."]
+hobbies: ["Gaming", "Cinema","Comedy"]
 ```
   
 ---  
@@ -70,7 +71,12 @@ hobbies: ["Gaming", "Cinema", "Football", "Comedy"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,mongodb,nextjs,tailwind" />
+  </a>
+</p>
 </p>
 
 ---
