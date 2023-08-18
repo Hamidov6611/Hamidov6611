@@ -47,7 +47,7 @@ fields_of_interests:
     "Web Development",
   ]
   
-currently_learning: ["Docker, TypeScript and PSQL"]
+currently_learning: ["Nest JS, TypeScript and PSQL"]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."],
 2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies."]
 hobbies: ["Gaming", "Cinema","Comedy"]
