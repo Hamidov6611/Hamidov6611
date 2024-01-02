@@ -35,7 +35,7 @@
 ```yaml
 name: Dilmurod Hamidov
 located_in: Bukhara, Uzbekistan
-current_job: MERN Stack Developer
+current_job: Full Stack Developer
 education:
   [
     "Bukhara State University Faculty of Information Technologies, Computer Science and Programming Technologies"
