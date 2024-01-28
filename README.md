@@ -50,7 +50,7 @@ fields_of_interests:
 currently_learning: ["Nest JS, TypeScript and PSQL"]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."],
 2023 Goals: ["Create 30+ Projects and learn at least 3 new Technologies."],
-2024 Goals: ["Create 1+ Projects"],
+2024 Goals: ["Create 5+ Projects"],
 hobbies: ["Gaming", "Cinema","Comedy"]
 ```
   
