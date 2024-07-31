@@ -60,7 +60,7 @@ hobbies: ["Gaming", "Cinema","Comedy"]
 <p align="left"> 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,reactjs,express,jest,prisma,postgres,firebase,supabase,ai,linux,ubuntu,aws,nginx,github,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react,express,jest,prisma,postgres,firebase,supabase,ai,linux,ubuntu,aws,nginx,github,tailwind,materialui" />
   </a>
 </p>
 </p>
