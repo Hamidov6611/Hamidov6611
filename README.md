@@ -34,7 +34,7 @@
 
 ```yaml
 name: Dilmurod Hamidov
-located_in: Bukhara, Uzbekistan
+located_in: Bukhara, Tashkent Uzbekistan
 current_job: Full Stack Developer
 education:
   [
@@ -45,14 +45,15 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Mobile Development"
+    "Mobile Development",
+    "DevOps"
   ]
   
 currently_learning: ["React Native | Expo", Supabase]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."],
 2023 Goals: ["Create 30+ Projects and learn at least 3 new Technologies."],
 2024 Goals: ["Create 30+ Projects and learn at least 3 new Technologies."],
-hobbies: ["Gaming", "Cinema","Comedy"]
+hobbies: ["Gaming", "Aura","Comedy"]
 ```
   
 ---  
