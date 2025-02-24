@@ -53,7 +53,7 @@ currently_learning: ["React Native | Expo", Supabase]
 2022 Goals: ["Create 10+ Projects and learn at least 5 new Technologies, 1 commit"],
 2023 Goals: ["Create 30+ Projects and learn at least 3 new Technologies, 635+ commit"],
 2024 Goals: ["Create 30+ Projects and learn at least 3 new Technologies, 1048+ commit"],
-2025 Goals: ["Create 1 Project"],
+2025 Goals: ["Create 6 Project, 491+ commit"],
 hobbies: ["Gaming", "Aura","Comedy"]
 ```
   
