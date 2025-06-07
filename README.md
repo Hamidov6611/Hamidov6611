@@ -54,7 +54,7 @@ currently_learning: ["..."]
 2023 Goals: ["Create +30 Projects and learn at least 3 new Technologies, +635 commit"],
 2024 Goals: ["Create +30 Projects and learn at least 3 new Technologies, +1048 commit"],
 2025 Goals: ["Create +12 Project, +1012 commit"],
-hobbies: ["Gaming", "Aura","Comedy"]
+hobbies: ["Gaming", "Aura", "Comedy"]
 ```
   
 ---  
